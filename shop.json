@@ -1,0 +1,177 @@
+[ 
+{
+  "name": "Flavors Galore",
+  "products": [
+    {
+      "name": "Exotic Fruit Medley",
+      "price": 9.99,
+      "description": "A vibrant mix of exotic and tropical fruits"
+    },
+    {
+      "name": "Spicy Hot Sauce Collection",
+      "price": 7.49,
+      "description": "A collection of fiery and flavorful hot sauces"
+    },
+    {
+      "name": "International Spice Blends",
+      "price": 6.99,
+      "description": "A variety of spice blends from around the world"
+    },
+    {
+      "name": "Flavored Olive Oil Sampler",
+      "price": 10.99,
+      "description": "A selection of infused and flavored olive oils"
+    },
+    {
+      "name": "Gourmet BBQ Rubs",
+      "price": 8.99,
+      "description": "Premium rubs for enhancing barbecue flavors"
+    },
+    {
+      "name": "Exquisite Tea Collection",
+      "price": 12.99,
+      "description": "A luxurious assortment of fine teas"
+    }
+  ]
+},    
+{
+  "name": "Tasty Treats",
+  "products": [
+    {
+      "name": "Classic Chocolate Chip Cookies",
+      "price": 3.99,
+      "description": "Traditional homemade chocolate chip cookies"
+    },
+    {
+      "name": "Decadent Brownie Mix",
+      "price": 5.99,
+      "description": "A gourmet mix for fudgy and indulgent brownies"
+    },
+    {
+      "name": "Flavorful Popcorn Assortment",
+      "price": 4.49,
+      "description": "A variety pack of savory and sweet popcorn flavors"
+    },
+    {
+      "name": "Assorted Cupcakes",
+      "price": 2.49,
+      "description": "A delightful assortment of freshly baked cupcakes"
+    },
+    {
+      "name": "Gourmet Ice Cream Pints",
+      "price": 6.99,
+      "description": "Artisanal ice cream in unique and delicious flavors"
+    },
+    {
+      "name": "Delicious Donuts",
+      "price": 1.99,
+      "description": "Freshly fried donuts with a variety of toppings"
+    }
+  ]
+},
+    {
+  "name": "Foodie's Paradise",
+  "products": [
+    {
+      "name": "Organic Quinoa",
+      "price": 6.99,
+      "description": "Nutritious and versatile organic quinoa"
+    },
+    {
+      "name": "Artisanal Sourdough",
+      "price": 5.49,
+      "description": "Handcrafted and naturally leavened sourdough bread"
+    },
+    {
+      "name": "Exotic Spices Set",
+      "price": 14.99,
+      "description": "A collection of rare and aromatic exotic spices"
+    },
+    {
+      "name": "Superfood Smoothie Mix",
+      "price": 7.99,
+      "description": "A blend of superfood powders for healthy smoothies"
+    },
+    {
+      "name": "Gourmet Coffee Beans",
+      "price": 9.99,
+      "description": "Premium single-origin Arabica coffee beans"
+    },
+    {
+      "name": "Artisan Pasta",
+      "price": 4.99,
+      "description": "Handmade artisanal pasta in various shapes"
+    }
+  ]
+},
+    {
+  "name": "Gourmet Haven",
+  "products": [
+    {
+      "name": "Truffle Oil",
+      "price": 12.99,
+      "description": "Exquisite truffle-infused olive oil"
+    },
+    {
+      "name": "Artisan Cheese Selection",
+      "price": 8.75,
+      "description": "A curated selection of fine artisan cheeses"
+    },
+    {
+      "name": "Gourmet Chocolate Truffles",
+      "price": 15.49,
+      "description": "Indulgent handcrafted chocolate truffles"
+    },
+    {
+      "name": "Imported Wines",
+      "price": 19.99,
+      "description": "A collection of premium imported wines"
+    },
+    {
+      "name": "Foie Gras",
+      "price": 29.99,
+      "description": "Luxurious and delicate duck foie gras"
+    },
+    {
+      "name": "Truffle Risotto",
+      "price": 9.99,
+      "description": "Rich and savory truffle-infused risotto"
+    }
+  ]
+},
+{
+"name": "Fresh Delights",
+"products":[
+  {
+    "name": "Organic Apples",
+    "price": 2.99,
+    "description": "Fresh and juicy organic apples"
+  },
+  {
+    "name": "Mixed Salad",
+    "price": 4.49,
+    "description": "A refreshing mix of fresh greens and vegetables"
+  },
+  {
+    "name": "Wild-Caught Salmon",
+    "price": 9.99,
+    "description": "Sustainably sourced wild-caught salmon fillets"
+  },
+  {
+    "name": "Greek Yogurt",
+    "price": 3.25,
+    "description": "Creamy and rich Greek yogurt with a hint of honey"
+  },
+  {
+    "name": "Avocado",
+    "price": 1.99,
+    "description": "Ripe and buttery Hass avocados"
+  },
+  {
+    "name": "Artisan Bread",
+    "price": 5.99,
+    "description": "Freshly baked crusty artisan bread"
+  }
+]
+}
+]
