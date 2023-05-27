@@ -3,16 +3,24 @@ const mongoose = require("mongoose");
 
 const Joi = require("joi");
 
+const allowedShopNames = [
+  "Fresh Delights",
+  "Gourmet Haven",
+  "Foodie's Paradise",
+  "Tasty Treats",
+  "Flavors Galore",
+];
+
 const orderSchema = new Schema(
   {
     shop: {
       type: String,
       required: true,
+      enum: allowedShopNames,
     },
     products: [
       {
-        type: mongoose.Schema.Types.ObjectId,
-        ref: "shop",
+        type: String,
         required: true,
       },
     ],
