@@ -3,31 +3,43 @@
   "name": "Flavors Galore",
   "products": [
     {
+      "id":"1",
+      "picture": "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Exotic Fruit Medley",
       "price": 9.99,
       "description": "A vibrant mix of exotic and tropical fruits"
     },
     {
+      "id":"2",
+    "picture": "https://images.pexels.com/photos/70746/strawberries-red-fruit-royalty-free-70746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Spicy Hot Sauce Collection",
       "price": 7.49,
       "description": "A collection of fiery and flavorful hot sauces"
     },
     {
+      "id":"3",
+    "picture": "https://images.pexels.com/photos/760281/pexels-photo-760281.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "International Spice Blends",
       "price": 6.99,
       "description": "A variety of spice blends from around the world"
     },
     {
+      "id":"4",
+    "picture": "https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Flavored Olive Oil Sampler",
       "price": 10.99,
       "description": "A selection of infused and flavored olive oils"
     },
     {
+       "id":"5",
+    "picture": "https://images.pexels.com/photos/693794/pexels-photo-693794.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "name": "Gourmet BBQ Rubs",
       "price": 8.99,
       "description": "Premium rubs for enhancing barbecue flavors"
     },
     {
+      "id":"6",
+    "picture": "https://images.pexels.com/photos/51958/oranges-fruit-vitamins-healthy-eating-51958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Exquisite Tea Collection",
       "price": 12.99,
       "description": "A luxurious assortment of fine teas"
@@ -37,32 +49,38 @@
 {
   "name": "Tasty Treats",
   "products": [
-    {
+    {"id":"1",
+      "picture": "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Classic Chocolate Chip Cookies",
       "price": 3.99,
       "description": "Traditional homemade chocolate chip cookies"
     },
-    {
+    {"id":"2",
+    "picture": "https://images.pexels.com/photos/70746/strawberries-red-fruit-royalty-free-70746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Decadent Brownie Mix",
       "price": 5.99,
       "description": "A gourmet mix for fudgy and indulgent brownies"
     },
-    {
+    {"id":"3",
+    "picture": "https://images.pexels.com/photos/760281/pexels-photo-760281.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Flavorful Popcorn Assortment",
       "price": 4.49,
       "description": "A variety pack of savory and sweet popcorn flavors"
     },
-    {
+    {"id":"4",
+    "picture": "https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Assorted Cupcakes",
       "price": 2.49,
       "description": "A delightful assortment of freshly baked cupcakes"
     },
-    {
+    {   "id":"5",
+    "picture": "https://images.pexels.com/photos/693794/pexels-photo-693794.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "name": "Gourmet Ice Cream Pints",
       "price": 6.99,
       "description": "Artisanal ice cream in unique and delicious flavors"
     },
-    {
+    {"id":"6",
+    "picture": "https://images.pexels.com/photos/51958/oranges-fruit-vitamins-healthy-eating-51958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Delicious Donuts",
       "price": 1.99,
       "description": "Freshly fried donuts with a variety of toppings"
@@ -72,32 +90,38 @@
     {
   "name": "Foodie's Paradise",
   "products": [
-    {
+    {"id":"1",
+      "picture": "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Organic Quinoa",
       "price": 6.99,
       "description": "Nutritious and versatile organic quinoa"
     },
-    {
+    {"id":"2",
+    "picture": "https://images.pexels.com/photos/70746/strawberries-red-fruit-royalty-free-70746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Artisanal Sourdough",
       "price": 5.49,
       "description": "Handcrafted and naturally leavened sourdough bread"
     },
-    {
+    {"id":"3",
+    "picture": "https://images.pexels.com/photos/760281/pexels-photo-760281.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Exotic Spices Set",
       "price": 14.99,
       "description": "A collection of rare and aromatic exotic spices"
     },
-    {
+    {"id":"4",
+    "picture": "https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Superfood Smoothie Mix",
       "price": 7.99,
       "description": "A blend of superfood powders for healthy smoothies"
     },
-    {
+    {  "id":"5",
+    "picture": "https://images.pexels.com/photos/693794/pexels-photo-693794.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "name": "Gourmet Coffee Beans",
       "price": 9.99,
       "description": "Premium single-origin Arabica coffee beans"
     },
-    {
+    {"id":"6",
+    "picture": "https://images.pexels.com/photos/51958/oranges-fruit-vitamins-healthy-eating-51958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Artisan Pasta",
       "price": 4.99,
       "description": "Handmade artisanal pasta in various shapes"
@@ -107,32 +131,38 @@
     {
   "name": "Gourmet Haven",
   "products": [
-    {
+    {"id":"1",
+      "picture": "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Truffle Oil",
       "price": 12.99,
       "description": "Exquisite truffle-infused olive oil"
     },
-    {
+    {"id":"2",
+    "picture": "https://images.pexels.com/photos/70746/strawberries-red-fruit-royalty-free-70746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Artisan Cheese Selection",
       "price": 8.75,
       "description": "A curated selection of fine artisan cheeses"
     },
-    {
+    {"id":"3",
+    "picture": "https://images.pexels.com/photos/760281/pexels-photo-760281.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Gourmet Chocolate Truffles",
       "price": 15.49,
       "description": "Indulgent handcrafted chocolate truffles"
     },
-    {
+    {"id":"4",
+    "picture": "https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Imported Wines",
       "price": 19.99,
       "description": "A collection of premium imported wines"
     },
-    {
+    {  "id":"5",
+    "picture": "https://images.pexels.com/photos/693794/pexels-photo-693794.jpeg?auto=compress&cs=tinysrgb&w=1600",
       "name": "Foie Gras",
       "price": 29.99,
       "description": "Luxurious and delicate duck foie gras"
     },
-    {
+    {"id":"6",
+    "picture": "https://images.pexels.com/photos/51958/oranges-fruit-vitamins-healthy-eating-51958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "name": "Truffle Risotto",
       "price": 9.99,
       "description": "Rich and savory truffle-infused risotto"
@@ -142,32 +172,38 @@
 {
 "name": "Fresh Delights",
 "products":[
-  {
+  {"id":"1",
+      "picture": "https://images.pexels.com/photos/1092730/pexels-photo-1092730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "name": "Organic Apples",
     "price": 2.99,
     "description": "Fresh and juicy organic apples"
   },
-  {
+  {"id":"2",
+    "picture": "https://images.pexels.com/photos/70746/strawberries-red-fruit-royalty-free-70746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "name": "Mixed Salad",
     "price": 4.49,
     "description": "A refreshing mix of fresh greens and vegetables"
   },
-  {
+  {"id":"3",
+    "picture": "https://images.pexels.com/photos/760281/pexels-photo-760281.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "name": "Wild-Caught Salmon",
     "price": 9.99,
     "description": "Sustainably sourced wild-caught salmon fillets"
   },
-  {
+  {"id":"4",
+    "picture": "https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "name": "Greek Yogurt",
     "price": 3.25,
     "description": "Creamy and rich Greek yogurt with a hint of honey"
   },
-  {
+  {  "id":"5",
+    "picture": "https://images.pexels.com/photos/693794/pexels-photo-693794.jpeg?auto=compress&cs=tinysrgb&w=1600",
     "name": "Avocado",
     "price": 1.99,
     "description": "Ripe and buttery Hass avocados"
   },
-  {
+  {"id":"6",
+    "picture": "https://images.pexels.com/photos/51958/oranges-fruit-vitamins-healthy-eating-51958.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "name": "Artisan Bread",
     "price": 5.99,
     "description": "Freshly baked crusty artisan bread"

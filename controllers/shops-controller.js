@@ -1,9 +1,9 @@
-const { model } = require("mongoose");
-const { Shop } = require("../models/order");
+const Shop = require("../models/shop");
 
-const fetchAllShops = (req, res, next) => {
+const fetchAllShops = async (req, res, next) => {
+  const allShops = await Shop.find();
   console.log("test");
-  res.json("test");
+  res.json(allShops);
 };
 
 module.exports = {
