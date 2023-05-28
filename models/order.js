@@ -18,18 +18,7 @@ const orderSchema = new Schema(
       required: true,
       enum: allowedShopNames,
     },
-    products: [
-      {
-        id: {
-          type: String,
-          required: true,
-        },
-        quantity: {
-          type: String,
-          required: true,
-        },
-      },
-    ],
+    products: [{}],
     email: {
       type: String,
       required: true,
@@ -48,12 +37,7 @@ const orderSchema = new Schema(
 
 const joiOrderScheme = Joi.object({
   shop: Joi.string().required(),
-  products: Joi.array().items(
-    Joi.object({
-      id: Joi.string().required(),
-      quantity: Joi.number().required(),
-    })
-  ),
+  products: Joi.array().items(Joi.object({})),
   email: Joi.string().email().required(),
   phoneNumber: Joi.string().required(),
   address: Joi.string().required(),
