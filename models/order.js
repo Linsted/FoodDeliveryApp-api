@@ -37,7 +37,7 @@ const orderSchema = new Schema(
 
 const joiOrderScheme = Joi.object({
   shop: Joi.string().required(),
-  products: Joi.array().items(Joi.object({})),
+  products: Joi.array().items(Joi.any()),
   email: Joi.string().email().required(),
   phoneNumber: Joi.string().required(),
   address: Joi.string().required(),
