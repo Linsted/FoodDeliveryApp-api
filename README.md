@@ -1,7 +1,7 @@
 # FoodDeliveryApp API
 
 This repository contains the backend code for the FoodDeliveryApp, an application for online food delivery. The API provides the necessary endpoints and functionalities to manage shops, products, orders.
-
+Link to deploy - https://fooddeliveryapp-api.onrender.com
 ## Features
 
 - Product Management: Add, update, and delete products within shops.
